@@ -9,7 +9,7 @@ body{
 }
 .card{
     width: 350px;
-    height: 500px;
+    height: 550px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
